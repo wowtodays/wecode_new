@@ -1,0 +1,35 @@
+.webucks{
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+
+.log_in{
+    border: 1px solid blue;
+    
+             }
+
+  .id{
+    display: flex;
+    justify-content: center;
+     width: 700px;
+    height: 30px;}
+
+  .password{
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    height: 30px;
+
+  }
+
+  .log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 30px;
+  }
+
